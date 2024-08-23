@@ -11,6 +11,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class LoginPage {
 
+	//checking for git
 	WebDriver driver;
 	WebDriverWait wait;
 	public LoginPage(WebDriver driver) {
